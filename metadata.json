@@ -1,0 +1,6 @@
+{
+  "name": "AI Personal Tutor Agent",
+  "description": "An interactive, full-stack, AI-powered personal tutor that designs personalized learning roadmaps, conducts Socratic dialogue, creates custom quizzes, and generates active-recall flashcards for any subject.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
